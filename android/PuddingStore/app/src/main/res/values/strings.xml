@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pudding Store</string>
+    <string name="next_button_text">Next</string>
+    <string name="welcome_image_content_description">Welcome background image</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="login_button_text">Log in</string>
+    <string name="logout_button_text">Logout</string>
+    <string name="api_url">https://3dprogramin.io/tutorial/pudding-store/login</string>
+<!--    <string name="api_url">http://192.168.1.20:3000/login</string>-->
+</resources>
